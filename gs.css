@@ -2,11 +2,16 @@
     font-size: 20px;
     color:rebeccapurple;
 }
-.direction{
+.direction:hover{
     font-size: 20px;
     color:black;
     background-color: bisque;
 
+
+}
+.direction{
+    front size: 20px;
+    color:red;
 }
 .LANE{
     font-size: 30px;
