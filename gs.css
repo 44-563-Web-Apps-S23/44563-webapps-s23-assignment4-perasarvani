@@ -1,6 +1,6 @@
 .speech{
     font-size: 20px;
-    color:rebeccapurple;
+    color:block;
 }
 .direction:hover{
     font-size: 20px;
@@ -11,15 +11,15 @@
 }
 .direction{
     font-size: 20px;
-    color:red;
+    color:blocks;
 }
 .LANE{
-    font-size: 30px;
+    font-size: 10px;
     color:black;
  
 }
 .MRS .BAUER{
-    font-size: 30px;
+    font-size: 10px;
     color:red;
 
 }
@@ -34,4 +34,11 @@ table, th, td {
   }
   tr:nth-child(even){
     background-color: blueviolet;
+  }
+  .LANE:hover{
+    color:coral;
+    
+  }
+  .MRS. BAUER:hover{
+    color:blue;
   }
