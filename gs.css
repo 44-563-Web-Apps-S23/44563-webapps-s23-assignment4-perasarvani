@@ -15,12 +15,12 @@
 }
 .LANE{
     font-size: 10px;
-    color:black;
+    color:blue;
  
 }
-.MRS .BAUER{
+.MRS_BAUER{
     font-size: 10px;
-    color:red;
+    color:blue;
 
 }
 table, th, td {
@@ -35,10 +35,4 @@ table, th, td {
   tr:nth-child(even){
     background-color: blueviolet;
   }
-  .LANE:hover{
-    color:coral;
-    
-  }
-  .MRS. BAUER:hover{
-    color:blue;
-  }
+  
