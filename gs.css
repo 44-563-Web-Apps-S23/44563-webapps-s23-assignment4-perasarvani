@@ -35,4 +35,14 @@ table, th, td {
   tr:nth-child(even){
     background-color: blueviolet;
   }
+  .LANE:hover{
+    color:coral;
+    border:solid 3px bisque;
+    text-shadow: 3px 4px 5px; 
+  }
+  .MRS_BAUER:hover{
+    color:blue;
+    border:solid 3px burlywood;
+    text-shadow: 3px 4px 5px ;
+  }
   
