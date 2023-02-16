@@ -45,4 +45,14 @@ table, th, td {
     border:solid 3px burlywood;
     text-shadow: 3px 4px 5px ;
   }
-  
+  .play{
+    font-size:large;
+    color: blue; 
+  }
+  .secondact{
+    font-size:large;
+    color: rgb(0, 255, 166); 
+  }
+  ul{
+    display: flex;
+  }
